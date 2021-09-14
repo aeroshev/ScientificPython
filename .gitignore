@@ -134,3 +134,7 @@ dmypy.json
 # Mac service files
 .DS_Store
 
+# Data for researching
+/data
+*.csv
+
